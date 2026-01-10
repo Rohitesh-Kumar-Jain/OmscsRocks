@@ -1,0 +1,25 @@
+name: Cache OMSCS sheet
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  cache:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download published sheet
+        run: |
+          curl -L "https://docs.google.com/spreadsheets/d/e/2PACX-1vRyHrRhH2V52bsYFEtm-8oJDaFOlyGYz6AKXm8WwsthN3fNP3KGkEx7O7D9ZHV3j2iKnzU2XHqoh4pQ/pubhtml?gid=90388515&single=true" -o cached.html
+
+      - name: Commit and push
+        run: |
+          git config user.name "omscc-bot"
+          git config user.email "bot@omscc.rocks"
+          git add cached.html
+          git commit -m "Update cached OMSCS sheet" || exit 0
+          git pull --rebase
+          git push

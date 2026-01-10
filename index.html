@@ -1,28 +1,30 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+<head>
+  <title>OMSCS Rocks</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Inter, system-ui, sans-serif;
+      background: #f8fafc;
+    }
 
-<h1>OMSCS Course Catalog</h1>
+    header {
+      background: #0f172a;
+      color: white;
+      padding: 1rem 2rem;
+      font-size: 1.3rem;
+    }
 
-<input id="search" placeholder="Search courses..." style="width:100%;padding:12px;margin:20px 0">
-
-<div id="courses">
-  {% for c in site.data.courses %}
-    <div class="course">
-      <strong>{{ c.code }}</strong> — {{ c.name }}<br>
-      <small>{{ c.semesters | join: ", " }}</small>
-    </div>
-  {% endfor %}
-</div>
-
-<script>
-const search = document.getElementById("search");
-const cards = document.querySelectorAll(".course");
-
-search.addEventListener("input", e => {
-  const q = e.target.value.toLowerCase();
-  cards.forEach(c => {
-    c.style.display = c.innerText.toLowerCase().includes(q) ? "" : "none";
-  });
-});
-</script>
+    iframe {
+      border: none;
+      width: 100%;
+      height: calc(100vh - 64px);
+    }
+  </style>
+</head>
+<body>
+  <header>OMSCS Rocks</header>
+  <iframe src="cached.html"></iframe>
+</body>
+</html>
