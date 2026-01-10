@@ -11,19 +11,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - run: |
+      - name: Download CSV
+        run: |
           curl -L "https://docs.google.com/spreadsheets/d/e/2PACX-1vRyHrRhH2V52bsYFEtm-8oJDaFOlyGYz6AKXm8WwsthN3fNP3KGkEx7O7D9ZHV3j2iKnzU2XHqoh4pQ/pub?gid=90388515&single=true&output=csv" -o sheet.csv
 
-      - run: |
+      - name: Convert CSV → YAML
+        run: |
+          mkdir -p _data
           python - <<EOF
           import csv, yaml
           with open("sheet.csv") as f:
               rows = list(csv.DictReader(f))
           with open("_data/courses.yml","w") as f:
-              yaml.dump(rows, f)
+              yaml.dump(rows, f, allow_unicode=True)
           EOF
 
-      - run: |
+      - name: Commit and push
+        run: |
           git config user.name "omscc-bot"
           git config user.email "bot@omscc.rocks"
           git add _data/courses.yml
