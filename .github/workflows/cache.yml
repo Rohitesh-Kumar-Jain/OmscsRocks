@@ -13,7 +13,36 @@ jobs:
 
       - name: Download published sheet
         run: |
-          curl -L "https://docs.google.com/spreadsheets/d/e/2PACX-1vRyHrRhH2V52bsYFEtm-8oJDaFOlyGYz6AKXm8WwsthN3fNP3KGkEx7O7D9ZHV3j2iKnzU2XHqoh4pQ/pubhtml?gid=90388515&single=true" -o cached.html
+          curl -L "https://docs.google.com/spreadsheets/d/e/2PACX-1vRyHrRhH2V52bsYFEtm-8oJDaFOlyGYz6AKXm8WwsthN3fNP3KGkEx7O7D9ZHV3j2iKnzU2XHqoh4pQ/pubhtml?gid=90388515&single=true" -o raw.html
+
+      - name: Extract table
+        run: |
+          python - <<EOF
+          from bs4 import BeautifulSoup
+
+          html = open("raw.html").read()
+          soup = BeautifulSoup(html, "html.parser")
+
+          table = soup.find("table")
+          page = f"""
+          <html>
+          <head>
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <style>
+              body {{ font-family: Arial, sans-serif; margin:0; }}
+              table {{ border-collapse: collapse; width:100%; }}
+              td, th {{ border: 1px solid #ddd; padding: 6px; }}
+              tr:nth-child(even) {{ background:#f9fafb; }}
+            </style>
+          </head>
+          <body>
+          {str(table)}
+          </body>
+          </html>
+          """
+
+          open("cached.html","w").write(page)
+          EOF
 
       - name: Commit and push
         run: |
@@ -21,5 +50,4 @@ jobs:
           git config user.email "bot@omscc.rocks"
           git add cached.html
           git commit -m "Update cached OMSCS sheet" || exit 0
-          git pull --rebase
           git push --force
