@@ -1,16 +1,28 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>OMSCS Courses</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <h1>OMSCS Course Catalog</h1>
-  <input id="search" placeholder="Search courses..." />
-  <div id="courses"></div>
+---
+layout: default
+---
 
-  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
-  <script src="app.js"></script>
-</body>
-</html>
+<h1>OMSCS Course Catalog</h1>
+
+<input id="search" placeholder="Search courses…" style="width:100%;padding:10px;margin:20px 0">
+
+<div id="courses">
+  {% for course in site.data.courses %}
+    <div class="course">
+      <strong>{{ course.Course_Name }}</strong><br>
+      {{ course.Course_Code }}
+    </div>
+  {% endfor %}
+</div>
+
+<script>
+const search = document.getElementById("search");
+const cards = document.querySelectorAll(".course");
+
+search.addEventListener("input", e => {
+  const q = e.target.value.toLowerCase();
+  cards.forEach(card => {
+    card.style.display = card.innerText.toLowerCase().includes(q) ? "" : "none";
+  });
+});
+</script>

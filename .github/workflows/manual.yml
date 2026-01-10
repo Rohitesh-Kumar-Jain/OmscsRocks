@@ -1,9 +1,9 @@
 name: Update courses
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
 
 jobs:
   update:
@@ -11,24 +11,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch Google Sheet CSV
-        run: |
+      - run: |
           curl -L "https://docs.google.com/spreadsheets/d/e/2PACX-1vRyHrRhH2V52bsYFEtm-8oJDaFOlyGYz6AKXm8WwsthN3fNP3KGkEx7O7D9ZHV3j2iKnzU2XHqoh4pQ/pub?gid=90388515&single=true&output=csv" -o sheet.csv
 
-      - name: Convert CSV to JSON
-        run: |
+      - run: |
           python - <<EOF
-          import csv, json
+          import csv, yaml
           with open("sheet.csv") as f:
               rows = list(csv.DictReader(f))
-          with open("data/courses.json","w") as f:
-              json.dump(rows, f, indent=2)
+          with open("_data/courses.yml","w") as f:
+              yaml.dump(rows, f)
           EOF
 
-      - name: Commit & push if changed
-        run: |
+      - run: |
           git config user.name "omscc-bot"
           git config user.email "bot@omscc.rocks"
-          git add data/courses.json
+          git add _data/courses.yml
           git commit -m "Update courses" || exit 0
           git push
