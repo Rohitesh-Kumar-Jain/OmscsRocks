@@ -1,3220 +1,2467 @@
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: 'www.omscs.rocks
+- code: 'www.omscs.rocks
 
     tinyurl.com/gt-omscs'
-  ? 'Fall
-
-    2024'
-  : ''
-  ? 'Fall
-
-    2025'
-  : ''
-  ? "Fall \n2023"
-  : ''
-  ? 'Spring
-
-    2025'
-  : ''
-  ? 'Spring
-
-    2026'
-  : ''
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : ''
-  ? 'Summer
-
-    2023'
-  : ''
-  ? 'Summer
-
-    2024'
-  : ''
-  ? 'Summer
-
-    2025'
-  : ''
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: OMSCS
-    Latest Orientation Doc
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: ''
-  ? 'Fall
-
-    2024'
-  : ''
-  ? 'Fall
-
-    2025'
-  : ''
-  ? "Fall \n2023"
-  : ''
-  ? 'Spring
-
-    2025'
-  : ''
-  ? 'Spring
-
-    2026'
-  : ''
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : ''
-  ? 'Summer
-
-    2023'
-  : ''
-  ? 'Summer
-
-    2024'
-  : ''
-  ? 'Summer
-
-    2025'
-  : ''
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: OMSCS
-    Orientation Videos
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: OMSCS
-    Slack
-  ? 'Fall
-
-    2024'
-  : ''
-  ? 'Fall
-
-    2025'
-  : ''
-  ? "Fall \n2023"
-  : ''
-  ? 'Spring
-
-    2025'
-  : ''
-  ? 'Spring
-
-    2026'
-  : ''
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : ''
-  ? 'Summer
-
-    2023'
-  : ''
-  ? 'Summer
-
-    2024'
-  : ''
-  ? 'Summer
-
-    2025'
-  : ''
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: Specs
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: OMSCS
-    Reddit
-  ? 'Fall
-
-    2024'
-  : ''
-  ? 'Fall
-
-    2025'
-  : ''
-  ? "Fall \n2023"
-  : ''
-  ? 'Spring
-
-    2025'
-  : ''
-  ? 'Spring
-
-    2026'
-  : ''
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : ''
-  ? 'Summer
-
-    2023'
-  : ''
-  ? 'Summer
-
-    2024'
-  : ''
-  ? 'Summer
-
-    2025'
-  : ''
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: Core
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: OMSA
-    Slack
-  ? 'Fall
-
-    2024'
-  : ''
-  ? 'Fall
-
-    2025'
-  : ''
-  ? "Fall \n2023"
-  : ''
-  ? 'Spring
-
-    2025'
-  : ''
-  ? 'Spring
-
-    2026'
-  : ''
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : ''
-  ? 'Summer
-
-    2023'
-  : ''
-  ? 'Summer
-
-    2024'
-  : ''
-  ? 'Summer
-
-    2025'
-  : ''
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: Elective
-- ? ''
-  : 'Seats
+  name: ◄ Read, Understand or be TROLLED in Reddit, Slack & Ed.
+  semesters:
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+- code: OMSCS Slack
+  name: H-C Interaction
+  semesters:
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- code: OMSCS Reddit
+  name: Take All 2
+  semesters:
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- code: OMSA Slack
+  name: Pick 3 - w/ 1 D + 1 I
+  semesters:
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- code: OMSCY Slack
+  name: 'Seats
 
     Left'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: OMSCY
-    Slack
-  ? 'Fall
-
-    2024'
-  : 'Seats
-
-    Total'
-  ? 'Fall
-
-    2025'
-  : 'Seats
-
-    Total'
-  ? "Fall \n2023"
-  : 'Seats
-
-    Total'
-  ? 'Spring
-
-    2025'
-  : 'Seats
-
-    Total'
-  ? 'Spring
-
-    2026'
-  : ''
-  ? "Spring \n2023"
-  : 'Seats
-
-    Total'
-  ? "Spring \n2024"
-  : 'Seats
-
-    Total'
-  ? 'Summer
-
-    2023'
-  : 'Seats
-
-    Total'
-  ? 'Summer
-
-    2024'
-  : 'Seats
-
-    Total'
-  ? 'Summer
-
-    2025'
-  : 'Seats
-
-    Total'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: Free
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: Code
-  ? 'Fall
-
-    2024'
-  : ''
-  ? 'Fall
-
-    2025'
-  : ''
-  ? "Fall \n2023"
-  : ''
-  ? 'Spring
-
-    2025'
-  : ''
-  ? 'Spring
-
-    2026'
-  : ''
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : ''
-  ? 'Summer
-
-    2023'
-  : ''
-  ? 'Summer
-
-    2024'
-  : ''
-  ? 'Summer
-
-    2025'
-  : ''
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: Found?
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: '1'
-  ? 'Fall
-
-    2024'
-  : ''
-  ? 'Fall
-
-    2025'
-  : ''
-  ? "Fall \n2023"
-  : ''
-  ? 'Spring
-
-    2025'
-  : ''
-  ? 'Spring
-
-    2026'
-  : ''
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : ''
-  ? 'Summer
-
-    2023'
-  : ''
-  ? 'Summer
-
-    2024'
-  : ''
-  ? 'Summer
-
-    2025'
-  : ''
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: Unless
-    otherwise stated, those not highlighted can be taken as "Free Electives".
-- ? ''
-  : '56'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6035
-  ? 'Fall
-
-    2024'
-  : '950'
-  ? 'Fall
-
-    2025'
-  : '750'
-  ? "Fall \n2023"
-  : '700'
-  ? 'Spring
-
-    2025'
-  : '850'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '750'
-  ? "Spring \n2024"
-  : '750'
-  ? 'Summer
-
-    2023'
-  : '700'
-  ? 'Summer
-
-    2024'
-  : '700'
-  ? 'Summer
-
-    2025'
-  : '700'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '1'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6150
-  ? 'Fall
-
-    2024'
-  : '50'
-  ? 'Fall
-
-    2025'
-  : ❄️ Break
-  ? "Fall \n2023"
-  : CS 8903 C4G
-  ? 'Spring
-
-    2025'
-  : '50'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '50'
-  ? "Spring \n2024"
-  : '50'
-  ? 'Summer
-
-    2023'
-  : ☀️ Break
-  ? 'Summer
-
-    2024'
-  : ☀️ Break
-  ? 'Summer
-
-    2025'
-  : ☀️ Break
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : '74'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6200
-  ? 'Fall
-
-    2024'
-  : '900'
-  ? 'Fall
-
-    2025'
-  : '1100'
-  ? "Fall \n2023"
-  : '700'
-  ? 'Spring
-
-    2025'
-  : '1000'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '750'
-  ? "Spring \n2024"
-  : '850'
-  ? 'Summer
-
-    2023'
-  : '750'
-  ? 'Summer
-
-    2024'
-  : '750'
-  ? 'Summer
-
-    2025'
-  : '750'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '26'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6210
-  ? 'Fall
-
-    2024'
-  : '400'
-  ? 'Fall
-
-    2025'
-  : '400'
-  ? "Fall \n2023"
-  : '250'
-  ? 'Spring
-
-    2025'
-  : '425'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '200'
-  ? "Spring \n2024"
-  : '300'
-  ? 'Summer
-
-    2023'
-  : ☀️ Break
-  ? 'Summer
-
-    2024'
-  : ☀️ Break
-  ? 'Summer
-
-    2025'
-  : ☀️ Break
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '33'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6211
-  ? 'Fall
-
-    2024'
-  : '60'
-  ? 'Fall
-
-    2025'
-  : '60'
-  ? "Fall \n2023"
-  : '75'
-  ? 'Spring
-
-    2025'
-  : '48'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '75'
-  ? "Spring \n2024"
-  : '50'
-  ? 'Summer
-
-    2023'
-  : ☀️ Break
-  ? 'Summer
-
-    2024'
-  : ☀️ Break
-  ? 'Summer
-
-    2025'
-  : ☀️ Break
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '59'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6238
-  ? 'Fall
-
-    2024'
-  : '150'
-  ? 'Fall
-
-    2025'
-  : '150'
-  ? "Fall \n2023"
-  : '150'
-  ? 'Spring
-
-    2025'
-  : '100'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '100'
-  ? "Spring \n2024"
-  : '100'
-  ? 'Summer
-
-    2023'
-  : '100'
-  ? 'Summer
-
-    2024'
-  : '100'
-  ? 'Summer
-
-    2025'
-  : '100'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '1'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6250
-  ? 'Fall
-
-    2024'
-  : '900'
-  ? 'Fall
-
-    2025'
-  : '1100'
-  ? "Fall \n2023"
-  : '700'
-  ? 'Spring
-
-    2025'
-  : '950'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '700'
-  ? "Spring \n2024"
-  : '700'
-  ? 'Summer
-
-    2023'
-  : '700'
-  ? 'Summer
-
-    2024'
-  : '700'
-  ? 'Summer
-
-    2025'
-  : '700'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '21'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6260
-  ? 'Fall
-
-    2024'
-  : '100'
-  ? 'Fall
-
-    2025'
-  : '100'
-  ? "Fall \n2023"
-  : '100'
-  ? 'Spring
-
-    2025'
-  : '100'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '100'
-  ? "Spring \n2024"
-  : '100'
-  ? 'Summer
-
-    2023'
-  : ☀️ Break
-  ? 'Summer
-
-    2024'
-  : ☀️ Break
-  ? 'Summer
-
-    2025'
-  : ☀️ Break
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6261
-  ? 'Fall
-
-    2024'
-  : '50'
-  ? 'Fall
-
-    2025'
-  : '50'
-  ? "Fall \n2023"
-  : ⬅️ First Offer
-  ? 'Spring
-
-    2025'
-  : '50'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : '50'
-  ? 'Summer
-
-    2023'
-  : ''
-  ? 'Summer
-
-    2024'
-  : ☀️ Break
-  ? 'Summer
-
-    2025'
-  : ☀️ Break
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : '34'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6262
-  ? 'Fall
-
-    2024'
-  : '250'
-  ? 'Fall
-
-    2025'
-  : '250'
-  ? "Fall \n2023"
-  : '300'
-  ? 'Spring
-
-    2025'
-  : '250'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '300'
-  ? "Spring \n2024"
-  : '300'
-  ? 'Summer
-
-    2023'
-  : '300'
-  ? 'Summer
-
-    2024'
-  : '300'
-  ? 'Summer
-
-    2025'
-  : '300'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '81'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6263
-  ? 'Fall
-
-    2024'
-  : '200'
-  ? 'Fall
-
-    2025'
-  : '100'
-  ? "Fall \n2023"
-  : '100'
-  ? 'Spring
-
-    2025'
-  : '100'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '150'
-  ? "Spring \n2024"
-  : '100'
-  ? 'Summer
-
-    2023'
-  : '150'
-  ? 'Summer
-
-    2024'
-  : '150'
-  ? 'Summer
-
-    2025'
-  : '150'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6264
-  ? 'Fall
-
-    2024'
-  : '50'
-  ? 'Fall
-
-    2025'
-  : '50'
-  ? "Fall \n2023"
-  : '50'
-  ? 'Spring
-
-    2025'
-  : 🌸 Break
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : 🌸 Break
-  ? "Spring \n2024"
-  : 🌸 Break
-  ? 'Summer
-
-    2023'
-  : '75'
-  ? 'Summer
-
-    2024'
-  : '50'
-  ? 'Summer
-
-    2025'
-  : '50'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '28'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6265
-  ? 'Fall
-
-    2024'
-  : '50'
-  ? 'Fall
-
-    2025'
-  : '50'
-  ? "Fall \n2023"
-  : '50'
-  ? 'Spring
-
-    2025'
-  : '50'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '50'
-  ? "Spring \n2024"
-  : '50'
-  ? 'Summer
-
-    2023'
-  : '50'
-  ? 'Summer
-
-    2024'
-  : '50'
-  ? 'Summer
-
-    2025'
-  : '50'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : '12'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6290
-  ? 'Fall
-
-    2024'
-  : '350'
-  ? 'Fall
-
-    2025'
-  : '400'
-  ? "Fall \n2023"
-  : '250'
-  ? 'Spring
-
-    2025'
-  : '350'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '250'
-  ? "Spring \n2024"
-  : '300'
-  ? 'Summer
-
-    2023'
-  : '100'
-  ? 'Summer
-
-    2024'
-  : '150'
-  ? 'Summer
-
-    2025'
-  : '200'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '57'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6291
-  ? 'Fall
-
-    2024'
-  : '150'
-  ? 'Fall
-
-    2025'
-  : '100'
-  ? "Fall \n2023"
-  : '50'
-  ? 'Spring
-
-    2025'
-  : '100'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '100'
-  ? "Spring \n2024"
-  : '100'
-  ? 'Summer
-
-    2023'
-  : '100'
-  ? 'Summer
-
-    2024'
-  : '100'
-  ? 'Summer
-
-    2025'
-  : '100'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '0'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6300
-  ? 'Fall
-
-    2024'
-  : '850'
-  ? 'Fall
-
-    2025'
-  : '950'
-  ? "Fall \n2023"
-  : '775'
-  ? 'Spring
-
-    2025'
-  : '950'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '750'
-  ? "Spring \n2024"
-  : '825'
-  ? 'Summer
-
-    2023'
-  : '550'
-  ? 'Summer
-
-    2024'
-  : '800'
-  ? 'Summer
-
-    2025'
-  : '800'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '82'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6310
-  ? 'Fall
-
-    2024'
-  : '650'
-  ? 'Fall
-
-    2025'
-  : '550'
-  ? "Fall \n2023"
-  : '600'
-  ? 'Spring
-
-    2025'
-  : '550'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '600'
-  ? "Spring \n2024"
-  : '600'
-  ? 'Summer
-
-    2023'
-  : '650'
-  ? 'Summer
-
-    2024'
-  : '650'
-  ? 'Summer
-
-    2025'
-  : '650'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '31'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6340
-  ? 'Fall
-
-    2024'
-  : '350'
-  ? 'Fall
-
-    2025'
-  : '400'
-  ? "Fall \n2023"
-  : '350'
-  ? 'Spring
-
-    2025'
-  : '400'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '350'
-  ? "Spring \n2024"
-  : '350'
-  ? 'Summer
-
-    2023'
-  : '350'
-  ? 'Summer
-
-    2024'
-  : '350'
-  ? 'Summer
-
-    2025'
-  : '350'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '54'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6400
-  ? 'Fall
-
-    2024'
-  : '750'
-  ? 'Fall
-
-    2025'
-  : '650'
-  ? "Fall \n2023"
-  : '600'
-  ? 'Spring
-
-    2025'
-  : '650'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '550'
-  ? "Spring \n2024"
-  : '600'
-  ? 'Summer
-
-    2023'
-  : '400'
-  ? 'Summer
-
-    2024'
-  : '400'
-  ? 'Summer
-
-    2025'
-  : '400'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6422
-  ? 'Fall
-
-    2024'
-  : ⬅️ First Offer
-  ? 'Fall
-
-    2025'
-  : '150'
-  ? "Fall \n2023"
-  : ''
-  ? 'Spring
-
-    2025'
-  : '100'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : ''
-  ? 'Summer
-
-    2023'
-  : ''
-  ? 'Summer
-
-    2024'
-  : ''
-  ? 'Summer
-
-    2025'
-  : '150'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '37'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6435
-  ? 'Fall
-
-    2024'
-  : '100'
-  ? 'Fall
-
-    2025'
-  : '100'
-  ? "Fall \n2023"
-  : '50'
-  ? 'Spring
-
-    2025'
-  : '100'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '50'
-  ? "Spring \n2024"
-  : '100'
-  ? 'Summer
-
-    2023'
-  : '50'
-  ? 'Summer
-
-    2024'
-  : ☀️ Break
-  ? 'Summer
-
-    2025'
-  : '100'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '85'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6440
-  ? 'Fall
-
-    2024'
-  : '350'
-  ? 'Fall
-
-    2025'
-  : '400'
-  ? "Fall \n2023"
-  : '250'
-  ? 'Spring
-
-    2025'
-  : '400'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '200'
-  ? "Spring \n2024"
-  : '300'
-  ? 'Summer
-
-    2023'
-  : ☀️ Break
-  ? 'Summer
-
-    2024'
-  : ☀️ Break
-  ? 'Summer
-
-    2025'
-  : ☀️ Break
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '43'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6457
-  ? 'Fall
-
-    2024'
-  : '400'
-  ? 'Fall
-
-    2025'
-  : '500'
-  ? "Fall \n2023"
-  : '350'
-  ? 'Spring
-
-    2025'
-  : '400'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '300'
-  ? "Spring \n2024"
-  : '350'
-  ? 'Summer
-
-    2023'
-  : '300'
-  ? 'Summer
-
-    2024'
-  : '300'
-  ? 'Summer
-
-    2025'
-  : '300'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '62'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6460
-  ? 'Fall
-
-    2024'
-  : '200'
-  ? 'Fall
-
-    2025'
-  : '200'
-  ? "Fall \n2023"
-  : '150'
-  ? 'Spring
-
-    2025'
-  : '150'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '150'
-  ? "Spring \n2024"
-  : '150'
-  ? 'Summer
-
-    2023'
-  : '150'
-  ? 'Summer
-
-    2024'
-  : '150'
-  ? 'Summer
-
-    2025'
-  : '150'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6465
-  ? 'Fall
-
-    2024'
-  : ''
-  ? 'Fall
-
-    2025'
-  : ''
-  ? "Fall \n2023"
-  : ''
-  ? 'Spring
-
-    2025'
-  : ''
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : ''
-  ? 'Summer
-
-    2023'
-  : ''
-  ? 'Summer
-
-    2024'
-  : ''
-  ? 'Summer
-
-    2025'
-  : ''
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '165'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6475
-  ? 'Fall
-
-    2024'
-  : '250'
-  ? 'Fall
-
-    2025'
-  : '150'
-  ? "Fall \n2023"
-  : '250'
-  ? 'Spring
-
-    2025'
-  : '150'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '250'
-  ? "Spring \n2024"
-  : '250'
-  ? 'Summer
-
-    2023'
-  : ☀️ Break
-  ? 'Summer
-
-    2024'
-  : ☀️ Break
-  ? 'Summer
-
-    2025'
-  : ☀️ Break
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '109'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6476
-  ? 'Fall
-
-    2024'
-  : '400'
-  ? 'Fall
-
-    2025'
-  : '400'
-  ? "Fall \n2023"
-  : '300'
-  ? 'Spring
-
-    2025'
-  : '400'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '300'
-  ? "Spring \n2024"
-  : '350'
-  ? 'Summer
-
-    2023'
-  : ☀️ Break
-  ? 'Summer
-
-    2024'
-  : ☀️ Break
-  ? 'Summer
-
-    2025'
-  : ☀️ Break
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6491
-  ? 'Fall
-
-    2024'
-  : ⬅️ First Offer
-  ? 'Fall
-
-    2025'
-  : '200'
-  ? "Fall \n2023"
-  : ''
-  ? 'Spring
-
-    2025'
-  : '50'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : ''
-  ? 'Summer
-
-    2023'
-  : ''
-  ? 'Summer
-
-    2024'
-  : ''
-  ? 'Summer
-
-    2025'
-  : '150'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '0'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6515 O01
-  ? 'Fall
-
-    2024'
-  : '550'
-  ? 'Fall
-
-    2025'
-  : '600'
-  ? "Fall \n2023"
-  : '475'
-  ? 'Spring
-
-    2025'
-  : '700'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '900'
-  ? "Spring \n2024"
-  : '560'
-  ? 'Summer
-
-    2023'
-  : '450'
-  ? 'Summer
-
-    2024'
-  : '350'
-  ? 'Summer
-
-    2025'
-  : '250'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '123'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6601
-  ? 'Fall
-
-    2024'
-  : '950'
-  ? 'Fall
-
-    2025'
-  : '1100'
-  ? "Fall \n2023"
-  : '950'
-  ? 'Spring
-
-    2025'
-  : '950'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '750'
-  ? "Spring \n2024"
-  : '950'
-  ? 'Summer
-
-    2023'
-  : ☀️ Break
-  ? 'Summer
-
-    2024'
-  : '600'
-  ? 'Summer
-
-    2025'
-  : '600'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '1'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6603
-  ? 'Fall
-
-    2024'
-  : '800'
-  ? 'Fall
-
-    2025'
-  : '800'
-  ? "Fall \n2023"
-  : '850'
-  ? 'Spring
-
-    2025'
-  : '800'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '800'
-  ? "Spring \n2024"
-  : '500'
-  ? 'Summer
-
-    2023'
-  : '650'
-  ? 'Summer
-
-    2024'
-  : '650'
-  ? 'Summer
-
-    2025'
-  : '650'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '101'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6675
-  ? 'Fall
-
-    2024'
-  : '200'
-  ? 'Fall
-
-    2025'
-  : '150'
-  ? "Fall \n2023"
-  : '200'
-  ? 'Spring
-
-    2025'
-  : '150'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '200'
-  ? "Spring \n2024"
-  : '200'
-  ? 'Summer
-
-    2023'
-  : '100'
-  ? 'Summer
-
-    2024'
-  : '100'
-  ? 'Summer
-
-    2025'
-  : '100'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '41'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6747
-  ? 'Fall
-
-    2024'
-  : '100'
-  ? 'Fall
-
-    2025'
-  : '100'
-  ? "Fall \n2023"
-  : '100'
-  ? 'Spring
-
-    2025'
-  : '100'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '100'
-  ? "Spring \n2024"
-  : '100'
-  ? 'Summer
-
-    2023'
-  : '100'
-  ? 'Summer
-
-    2024'
-  : '100'
-  ? 'Summer
-
-    2025'
-  : '100'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : '305'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6750
-  ? 'Fall
-
-    2024'
-  : '1050'
-  ? 'Fall
-
-    2025'
-  : '1150'
-  ? "Fall \n2023"
-  : '800'
-  ? 'Spring
-
-    2025'
-  : '1050'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '800'
-  ? "Spring \n2024"
-  : '900'
-  ? 'Summer
-
-    2023'
-  : '650'
-  ? 'Summer
-
-    2024'
-  : '650'
-  ? 'Summer
-
-    2025'
-  : '650'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '2'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    6795
-  ? 'Fall
-
-    2024'
-  : '450'
-  ? 'Fall
-
-    2025'
-  : '600'
-  ? "Fall \n2023"
-  : '200'
-  ? 'Spring
-
-    2025'
-  : '550'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '125'
-  ? "Spring \n2024"
-  : '300'
-  ? 'Summer
-
-    2023'
-  : '125'
-  ? 'Summer
-
-    2024'
-  : '250'
-  ? 'Summer
-
-    2025'
-  : '400'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '90'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    7210
-  ? 'Fall
-
-    2024'
-  : '150'
-  ? 'Fall
-
-    2025'
-  : '150'
-  ? "Fall \n2023"
-  : '150'
-  ? 'Spring
-
-    2025'
-  : '150'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '200'
-  ? "Spring \n2024"
-  : '150'
-  ? 'Summer
-
-    2023'
-  : ☀️ Break
-  ? 'Summer
-
-    2024'
-  : ☀️ Break
-  ? 'Summer
-
-    2025'
-  : ☀️ Break
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '93'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    7280
-  ? 'Fall
-
-    2024'
-  : '300'
-  ? 'Fall
-
-    2025'
-  : '250'
-  ? "Fall \n2023"
-  : '250'
-  ? 'Spring
-
-    2025'
-  : '250'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '250'
-  ? "Spring \n2024"
-  : '250'
-  ? 'Summer
-
-    2023'
-  : '250'
-  ? 'Summer
-
-    2024'
-  : '250'
-  ? 'Summer
-
-    2025'
-  : '250'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    7295
-  ? 'Fall
-
-    2024'
-  : '100'
-  ? 'Fall
-
-    2025'
-  : '150'
-  ? "Fall \n2023"
-  : ⬅️ First Offer
-  ? 'Spring
-
-    2025'
-  : '150'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : '50'
-  ? 'Summer
-
-    2023'
-  : ''
-  ? 'Summer
-
-    2024'
-  : '50'
-  ? 'Summer
-
-    2025'
-  : '150'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '17'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    7400
-  ? 'Fall
-
-    2024'
-  : '300'
-  ? 'Fall
-
-    2025'
-  : '300'
-  ? "Fall \n2023"
-  : '150'
-  ? 'Spring
-
-    2025'
-  : '250'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '150'
-  ? "Spring \n2024"
-  : '200'
-  ? 'Summer
-
-    2023'
-  : '150'
-  ? 'Summer
-
-    2024'
-  : '150'
-  ? 'Summer
-
-    2025'
-  : '200'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '71'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    7470
-  ? 'Fall
-
-    2024'
-  : '200'
-  ? 'Fall
-
-    2025'
-  : '250'
-  ? "Fall \n2023"
-  : '100'
-  ? 'Spring
-
-    2025'
-  : '250'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '100'
-  ? "Spring \n2024"
-  : '200'
-  ? 'Summer
-
-    2023'
-  : '100'
-  ? 'Summer
-
-    2024'
-  : '150'
-  ? 'Summer
-
-    2025'
-  : '150'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    7496
-  ? 'Fall
-
-    2024'
-  : ''
-  ? 'Fall
-
-    2025'
-  : '200'
-  ? "Fall \n2023"
-  : ''
-  ? 'Spring
-
-    2025'
-  : ⬅️ First Offer
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : ''
-  ? 'Summer
-
-    2023'
-  : ''
-  ? 'Summer
-
-    2024'
-  : ''
-  ? 'Summer
-
-    2025'
-  : '200'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '0'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    7632
-  ? 'Fall
-
-    2024'
-  : '600'
-  ? 'Fall
-
-    2025'
-  : '700'
-  ? "Fall \n2023"
-  : '400'
-  ? 'Spring
-
-    2025'
-  : '600'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '300'
-  ? "Spring \n2024"
-  : '500'
-  ? 'Summer
-
-    2023'
-  : '250'
-  ? 'Summer
-
-    2024'
-  : '300'
-  ? 'Summer
-
-    2025'
-  : '400'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '345'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    7637
-  ? 'Fall
-
-    2024'
-  : '850'
-  ? 'Fall
-
-    2025'
-  : '950'
-  ? "Fall \n2023"
-  : '700'
-  ? 'Spring
-
-    2025'
-  : '850'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '800'
-  ? "Spring \n2024"
-  : '700'
-  ? 'Summer
-
-    2023'
-  : '700'
-  ? 'Summer
-
-    2024'
-  : '700'
-  ? 'Summer
-
-    2025'
-  : '700'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '98'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    7638
-  ? 'Fall
-
-    2024'
-  : '700'
-  ? 'Fall
-
-    2025'
-  : '700'
-  ? "Fall \n2023"
-  : '700'
-  ? 'Spring
-
-    2025'
-  : '800'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '600'
-  ? "Spring \n2024"
-  : '700'
-  ? 'Summer
-
-    2023'
-  : '900'
-  ? 'Summer
-
-    2024'
-  : '900'
-  ? 'Summer
-
-    2025'
-  : '900'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '4'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    7639
-  ? 'Fall
-
-    2024'
-  : '100'
-  ? 'Fall
-
-    2025'
-  : '100'
-  ? "Fall \n2023"
-  : '50'
-  ? 'Spring
-
-    2025'
-  : '100'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '50'
-  ? "Spring \n2024"
-  : '50'
-  ? 'Summer
-
-    2023'
-  : ☀️ Break
-  ? 'Summer
-
-    2024'
-  : ☀️ Break
-  ? 'Summer
-
-    2025'
-  : ☀️ Break
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '28'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    7641
-  ? 'Fall
-
-    2024'
-  : '1350'
-  ? 'Fall
-
-    2025'
-  : '1350'
-  ? "Fall \n2023"
-  : '1100'
-  ? 'Spring
-
-    2025'
-  : '1200'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '1100'
-  ? "Spring \n2024"
-  : '1200'
-  ? 'Summer
-
-    2023'
-  : ☀️ Break
-  ? 'Summer
-
-    2024'
-  : '700'
-  ? 'Summer
-
-    2025'
-  : '700'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '53'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    7642
-  ? 'Fall
-
-    2024'
-  : '500'
-  ? 'Fall
-
-    2025'
-  : '550'
-  ? "Fall \n2023"
-  : '350'
-  ? 'Spring
-
-    2025'
-  : '450'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '300'
-  ? "Spring \n2024"
-  : '400'
-  ? 'Summer
-
-    2023'
-  : '500'
-  ? 'Summer
-
-    2024'
-  : '500'
-  ? 'Summer
-
-    2025'
-  : '500'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '106'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    7643
-  ? 'Fall
-
-    2024'
-  : '700'
-  ? 'Fall
-
-    2025'
-  : '700'
-  ? "Fall \n2023"
-  : '600'
-  ? 'Spring
-
-    2025'
-  : '750'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '600'
-  ? "Spring \n2024"
-  : '600'
-  ? 'Summer
-
-    2023'
-  : '350'
-  ? 'Summer
-
-    2024'
-  : '350'
-  ? 'Summer
-
-    2025'
-  : '350'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '48'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    7646
-  ? 'Fall
-
-    2024'
-  : '1600'
-  ? 'Fall
-
-    2025'
-  : '1650'
-  ? "Fall \n2023"
-  : '1300'
-  ? 'Spring
-
-    2025'
-  : '1600'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '1300'
-  ? "Spring \n2024"
-  : '1300'
-  ? 'Summer
-
-    2023'
-  : '900'
-  ? 'Summer
-
-    2024'
-  : '900'
-  ? 'Summer
-
-    2025'
-  : '900'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    7650
-  ? 'Fall
-
-    2024'
-  : '600'
-  ? 'Fall
-
-    2025'
-  : '700'
-  ? "Fall \n2023"
-  : '250'
-  ? 'Spring
-
-    2025'
-  : '700'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : ⬅️ First Offer
-  ? "Spring \n2024"
-  : '400'
-  ? 'Summer
-
-    2023'
-  : '100'
-  ? 'Summer
-
-    2024'
-  : '300'
-  ? 'Summer
-
-    2025'
-  : '600'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '18'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    8803 O08
-  ? 'Fall
-
-    2024'
-  : '150'
-  ? 'Fall
-
-    2025'
-  : '100'
-  ? "Fall \n2023"
-  : '50'
-  ? 'Spring
-
-    2025'
-  : '100'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '50'
-  ? "Spring \n2024"
-  : '50'
-  ? 'Summer
-
-    2023'
-  : '100'
-  ? 'Summer
-
-    2024'
-  : '100'
-  ? 'Summer
-
-    2025'
-  : '100'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '1'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    8803 O15
-  ? 'Fall
-
-    2024'
-  : '100'
-  ? 'Fall
-
-    2025'
-  : '150'
-  ? "Fall \n2023"
-  : '75'
-  ? 'Spring
-
-    2025'
-  : '100'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '50'
-  ? "Spring \n2024"
-  : '75'
-  ? 'Summer
-
-    2023'
-  : '50'
-  ? 'Summer
-
-    2024'
-  : '75'
-  ? 'Summer
-
-    2025'
-  : '100'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : '6'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    8803 O17
-  ? 'Fall
-
-    2024'
-  : '150'
-  ? 'Fall
-
-    2025'
-  : '150'
-  ? "Fall \n2023"
-  : '200'
-  ? 'Spring
-
-    2025'
-  : '150'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '150'
-  ? "Spring \n2024"
-  : '150'
-  ? 'Summer
-
-    2023'
-  : '150'
-  ? 'Summer
-
-    2024'
-  : '150'
-  ? 'Summer
-
-    2025'
-  : '150'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    8803 O20
-  ? 'Fall
-
-    2024'
-  : ''
-  ? 'Fall
-
-    2025'
-  : '50'
-  ? "Fall \n2023"
-  : ''
-  ? 'Spring
-
-    2025'
-  : ⬅️ First Offer
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : ''
-  ? 'Summer
-
-    2023'
-  : ''
-  ? 'Summer
-
-    2024'
-  : ''
-  ? 'Summer
-
-    2025'
-  : '50'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    8803 O23
-  ? 'Fall
-
-    2024'
-  : '50'
-  ? 'Fall
-
-    2025'
-  : '50'
-  ? "Fall \n2023"
-  : ''
-  ? 'Spring
-
-    2025'
-  : '50'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : ''
-  ? 'Summer
-
-    2023'
-  : ''
-  ? 'Summer
-
-    2024'
-  : ⬅️ First Offer
-  ? 'Summer
-
-    2025'
-  : '50'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    8803 O24
-  ? 'Fall
-
-    2024'
-  : '50'
-  ? 'Fall
-
-    2025'
-  : '100'
-  ? "Fall \n2023"
-  : ''
-  ? 'Spring
-
-    2025'
-  : '100'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : ''
-  ? 'Summer
-
-    2023'
-  : ''
-  ? 'Summer
-
-    2024'
-  : ⬅️ First Offer
-  ? 'Summer
-
-    2025'
-  : '50'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CS
-    8803 O27
-  ? 'Fall
-
-    2024'
-  : ''
-  ? 'Fall
-
-    2025'
-  : ⬅️ First Offer
-  ? "Fall \n2023"
-  : ''
-  ? 'Spring
-
-    2025'
-  : ''
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : ''
-  ? 'Summer
-
-    2023'
-  : ''
-  ? 'Summer
-
-    2024'
-  : ''
-  ? 'Summer
-
-    2025'
-  : ''
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: TBD
-- ? ''
-  : '119'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CSE
-    6220
-  ? 'Fall
-
-    2024'
-  : '250'
-  ? 'Fall
-
-    2025'
-  : '250'
-  ? "Fall \n2023"
-  : '200'
-  ? 'Spring
-
-    2025'
-  : '250'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '250'
-  ? "Spring \n2024"
-  : '200'
-  ? 'Summer
-
-    2023'
-  : '300'
-  ? 'Summer
-
-    2024'
-  : '300'
-  ? 'Summer
-
-    2025'
-  : '300'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '101'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CSE
-    6242
-  ? 'Fall
-
-    2024'
-  : '400'
-  ? 'Fall
-
-    2025'
-  : '400'
-  ? "Fall \n2023"
-  : '400'
-  ? 'Spring
-
-    2025'
-  : '400'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '400'
-  ? "Spring \n2024"
-  : '400'
-  ? 'Summer
-
-    2023'
-  : ☀️ Break
-  ? 'Summer
-
-    2024'
-  : ☀️ Break
-  ? 'Summer
-
-    2025'
-  : ☀️ Break
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '71'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CSE
-    6250
-  ? 'Fall
-
-    2024'
-  : '150'
-  ? 'Fall
-
-    2025'
-  : '200'
-  ? "Fall \n2023"
-  : '100'
-  ? 'Spring
-
-    2025'
-  : '150'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '150'
-  ? "Spring \n2024"
-  : '100'
-  ? 'Summer
-
-    2023'
-  : ☀️ Break
-  ? 'Summer
-
-    2024'
-  : ☀️ Break
-  ? 'Summer
-
-    2025'
-  : ☀️ Break
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '3'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: CSE
-    6742
-  ? 'Fall
-
-    2024'
-  : '100'
-  ? 'Fall
-
-    2025'
-  : '100'
-  ? "Fall \n2023"
-  : '100'
-  ? 'Spring
-
-    2025'
-  : '50'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '50'
-  ? "Spring \n2024"
-  : '50'
-  ? 'Summer
-
-    2023'
-  : ☀️ Break
-  ? 'Summer
-
-    2024'
-  : ☀️ Break
-  ? 'Summer
-
-    2025'
-  : ☀️ Break
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: '2'
-  ? 'Fall
-
-    2024'
-  : ''
-  ? 'Fall
-
-    2025'
-  : ''
-  ? "Fall \n2023"
-  : ''
-  ? 'Spring
-
-    2025'
-  : ''
-  ? 'Spring
-
-    2026'
-  : ''
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : ''
-  ? 'Summer
-
-    2023'
-  : ''
-  ? 'Summer
-
-    2024'
-  : ''
-  ? 'Summer
-
-    2025'
-  : ''
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: Up
-    to 2 non-CS/CSE courses fulfil the OMSCS degree - regardless of how you use for
-    graduation!
-- ? ''
-  : '39'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: ISYE
-    6402
-  ? 'Fall
-
-    2024'
-  : '200'
-  ? 'Fall
-
-    2025'
-  : '200'
-  ? "Fall \n2023"
-  : '200'
-  ? 'Spring
-
-    2025'
-  : '50'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '50'
-  ? "Spring \n2024"
-  : '50'
-  ? 'Summer
-
-    2023'
-  : ☀️ Break
-  ? 'Summer
-
-    2024'
-  : ☀️ Break
-  ? 'Summer
-
-    2025'
-  : ☀️ Break
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : '32'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: ISYE
-    6420
-  ? 'Fall
-
-    2024'
-  : '275'
-  ? 'Fall
-
-    2025'
-  : '275'
-  ? "Fall \n2023"
-  : '275'
-  ? 'Spring
-
-    2025'
-  : '200'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '200'
-  ? "Spring \n2024"
-  : '200'
-  ? 'Summer
-
-    2023'
-  : ☀️ Break
-  ? 'Summer
-
-    2024'
-  : ☀️ Break
-  ? 'Summer
-
-    2025'
-  : ☀️ Break
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ✅
-- ? ''
-  : '89'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: ISYE
-    6501
-  ? 'Fall
-
-    2024'
-  : '200'
-  ? 'Fall
-
-    2025'
-  : '200'
-  ? "Fall \n2023"
-  : '200'
-  ? 'Spring
-
-    2025'
-  : '200'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '200'
-  ? "Spring \n2024"
-  : '200'
-  ? 'Summer
-
-    2023'
-  : '100'
-  ? 'Summer
-
-    2024'
-  : '100'
-  ? 'Summer
-
-    2025'
-  : '100'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : '174'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: ISYE
-    6525
-  ? 'Fall
-
-    2024'
-  : '100'
-  ? 'Fall
-
-    2025'
-  : '100'
-  ? "Fall \n2023"
-  : '100'
-  ? 'Spring
-
-    2025'
-  : '200'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '200'
-  ? "Spring \n2024"
-  : '200'
-  ? 'Summer
-
-    2023'
-  : '100'
-  ? 'Summer
-
-    2024'
-  : '100'
-  ? 'Summer
-
-    2025'
-  : '100'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : '61'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: ISYE
-    6644
-  ? 'Fall
-
-    2024'
-  : '200'
-  ? 'Fall
-
-    2025'
-  : '200'
-  ? "Fall \n2023"
-  : '200'
-  ? 'Spring
-
-    2025'
-  : '100'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '100'
-  ? "Spring \n2024"
-  : '100'
-  ? 'Summer
-
-    2023'
-  : '200'
-  ? 'Summer
-
-    2024'
-  : '200'
-  ? 'Summer
-
-    2025'
-  : '200'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : '58'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: ISYE
-    6669
-  ? 'Fall
-
-    2024'
-  : '100'
-  ? 'Fall
-
-    2025'
-  : '100'
-  ? "Fall \n2023"
-  : '100'
-  ? 'Spring
-
-    2025'
-  : '100'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '100'
-  ? "Spring \n2024"
-  : '100'
-  ? 'Summer
-
-    2023'
-  : ☀️ Break
-  ? 'Summer
-
-    2024'
-  : ☀️ Break
-  ? 'Summer
-
-    2025'
-  : ☀️ Break
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : '0'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: INTA
-    6450
-  ? 'Fall
-
-    2024'
-  : '150'
-  ? 'Fall
-
-    2025'
-  : '150'
-  ? "Fall \n2023"
-  : '150'
-  ? 'Spring
-
-    2025'
-  : '200'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '200'
-  ? "Spring \n2024"
-  : '200'
-  ? 'Summer
-
-    2023'
-  : '135'
-  ? 'Summer
-
-    2024'
-  : '135'
-  ? 'Summer
-
-    2025'
-  : '135'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : '0'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: MGT
-    6311
-  ? 'Fall
-
-    2024'
-  : '300'
-  ? 'Fall
-
-    2025'
-  : '300'
-  ? "Fall \n2023"
-  : '200'
-  ? 'Spring
-
-    2025'
-  : '125'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '125'
-  ? "Spring \n2024"
-  : '125'
-  ? 'Summer
-
-    2023'
-  : '150'
-  ? 'Summer
-
-    2024'
-  : '320'
-  ? 'Summer
-
-    2025'
-  : '320'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: MGT
-    8813
-  ? 'Fall
-
-    2024'
-  : '300'
-  ? 'Fall
-
-    2025'
-  : '300'
-  ? "Fall \n2023"
-  : '50'
-  ? 'Spring
-
-    2025'
-  : '50'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : '50'
-  ? 'Summer
-
-    2023'
-  : ⬅️ First Offer
-  ? 'Summer
-
-    2024'
-  : '320'
-  ? 'Summer
-
-    2025'
-  : '320'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : '8'
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: PUBP
-    6725
-  ? 'Fall
-
-    2024'
-  : '100'
-  ? 'Fall
-
-    2025'
-  : '100'
-  ? "Fall \n2023"
-  : '100'
-  ? 'Spring
-
-    2025'
-  : '100'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : '100'
-  ? "Spring \n2024"
-  : '100'
-  ? 'Summer
-
-    2023'
-  : '180'
-  ? 'Summer
-
-    2024'
-  : '180'
-  ? 'Summer
-
-    2025'
-  : '180'
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: PUBP
-    8823
-  ? 'Fall
-
-    2024'
-  : '50'
-  ? 'Fall
-
-    2025'
-  : '50'
-  ? "Fall \n2023"
-  : '50'
-  ? 'Spring
-
-    2025'
-  : '50'
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202602&crn_in=
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : '50'
-  ? 'Summer
-
-    2023'
-  : ⬅️ First Offer
-  ? 'Summer
-
-    2024'
-  : ☀️ Break
-  ? 'Summer
-
-    2025'
-  : ☀️ Break
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
-- ? ''
-  : ''
-  Complaints, Comments - use r/OMSCS Mod Mail & do help to introduce yourself.: ECE
-    8843
-  ? 'Fall
-
-    2024'
-  : ''
-  ? 'Fall
-
-    2025'
-  : ''
-  ? "Fall \n2023"
-  : ''
-  ? 'Spring
-
-    2025'
-  : ''
-  ? 'Spring
-
-    2026'
-  : https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202505&crn_in=
-  ? "Spring \n2023"
-  : ''
-  ? "Spring \n2024"
-  : ''
-  ? 'Summer
-
-    2023'
-  : ''
-  ? 'Summer
-
-    2024'
-  : ''
-  ? 'Summer
-
-    2025'
-  : ''
-  Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...: ⛔
+  semesters:
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: Code
+  name: H-C Interaction
+  semesters:
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- code: '1'
+  name: Unless otherwise stated, those not highlighted can be taken as "Free Electives".
+  semesters:
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+- code: CS 6035
+  name: '56'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6150
+  name: '1'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - Summer 2025
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - Summer 2023
+  - Spring  2023
+  - ''
+- code: CS 6200
+  name: '74'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6210
+  name: '26'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - Spring  2023
+  - ''
+- code: CS 6211
+  name: '33'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - Spring  2023
+  - ''
+- code: CS 6238
+  name: '59'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6250
+  name: '1'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6260
+  name: '21'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - Spring  2023
+  - ''
+- code: CS 6261
+  name: ⬅️ First Offer
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - Spring  2024
+  - ''
+  - Fall  2023
+- code: CS 6262
+  name: '34'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6263
+  name: '81'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6264
+  name: 🌸 Break
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+- code: CS 6265
+  name: '28'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6290
+  name: '12'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6291
+  name: '57'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6300
+  name: '0'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6310
+  name: '82'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6340
+  name: '31'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6400
+  name: '54'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6422
+  name: ⬅️ First Offer
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+- code: CS 6435
+  name: '37'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6440
+  name: '85'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - Spring  2023
+  - ''
+- code: CS 6457
+  name: '43'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6460
+  name: '62'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6465
+  name: '#N/A'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- code: CS 6475
+  name: '165'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - Spring  2023
+  - ''
+- code: CS 6476
+  name: '109'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - ''
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - Spring  2023
+  - ''
+- code: CS 6491
+  name: ⬅️ First Offer
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+- code: CS 6515 O01
+  name: '0'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6601
+  name: '123'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - Spring  2023
+  - ''
+- code: CS 6603
+  name: '1'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6675
+  name: '101'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6747
+  name: '41'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6750
+  name: '305'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 6795
+  name: '2'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 7210
+  name: '90'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - Spring  2023
+  - ''
+- code: CS 7280
+  name: '93'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 7295
+  name: ⬅️ First Offer
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+- code: CS 7400
+  name: '17'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 7470
+  name: '71'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 7496
+  name: ⬅️ First Offer
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+- code: CS 7632
+  name: '0'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 7637
+  name: '345'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 7638
+  name: '98'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 7639
+  name: '4'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - Spring  2023
+  - ''
+- code: CS 7641
+  name: '28'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - Spring  2023
+  - ''
+- code: CS 7642
+  name: '53'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 7643
+  name: '106'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 7646
+  name: '48'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 7650
+  name: ⬅️ First Offer
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+- code: CS 8803 O08
+  name: '18'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 8803 O15
+  name: '1'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 8803 O17
+  name: '6'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CS 8803 O20
+  name: ⬅️ First Offer
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+- code: CS 8803 O23
+  name: ⬅️ First Offer
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+- code: CS 8803 O24
+  name: ⬅️ First Offer
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+- code: CS 8803 O27
+  name: ⬅️ First Offer
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+- code: CSE 6220
+  name: '119'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: CSE 6242
+  name: '101'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - Spring  2023
+  - ''
+- code: CSE 6250
+  name: '71'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - Spring  2023
+  - ''
+- code: CSE 6742
+  name: '3'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - Spring  2023
+  - ''
+- code: '2'
+  name: Up to 2 non-CS/CSE courses fulfil the OMSCS degree - regardless of how you
+    use for graduation!
+  semesters:
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+- code: ISYE 6402
+  name: '39'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - Spring  2023
+  - ''
+- code: ISYE 6420
+  name: '32'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - ''
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - Spring  2023
+  - ''
+- code: ISYE 6501
+  name: '89'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: ISYE 6525
+  name: '174'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: ISYE 6644
+  name: '61'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: ISYE 6669
+  name: '58'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - Spring  2023
+  - ''
+- code: INTA 6450
+  name: '0'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: MGT 6311
+  name: '0'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: MGT 8813
+  name: ⬅️ First Offer
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+- code: PUBP 6725
+  name: '8'
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - ''
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - ''
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+  - ''
+  - Spring  2023
+  - ''
+- code: PUBP 8823
+  name: ⬅️ First Offer
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - Spring 2026
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Fall 2025
+  - ''
+  - Summer 2025
+  - Spring 2025
+  - ''
+  - Fall 2024
+  - ''
+  - Summer 2024
+  - Spring  2024
+  - ''
+  - Fall  2023
+  - ''
+  - Summer 2023
+- code: ECE 8843
+  name: https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202505&crn_in=
+  semesters:
+  - ''
+  - ''
+  - ''
+  - ''
+  - Used to be a Student Project in CS 6750 HCI back in 2022 but now we made it live...
+  - Spring 2026
