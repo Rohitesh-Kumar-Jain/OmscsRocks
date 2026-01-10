@@ -22,4 +22,4 @@ jobs:
           git add cached.html
           git commit -m "Update cached OMSCS sheet" || exit 0
           git pull --rebase
-          git push
+          git push --force
