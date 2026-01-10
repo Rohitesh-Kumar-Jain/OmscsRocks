@@ -11,19 +11,44 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download CSV
+      - name: Download Google Sheet
         run: |
           curl -L "https://docs.google.com/spreadsheets/d/e/2PACX-1vRyHrRhH2V52bsYFEtm-8oJDaFOlyGYz6AKXm8WwsthN3fNP3KGkEx7O7D9ZHV3j2iKnzU2XHqoh4pQ/pub?gid=90388515&single=true&output=csv" -o sheet.csv
 
-      - name: Convert CSV → YAML
+      - name: Convert semester grid → courses
         run: |
           mkdir -p _data
           python - <<EOF
           import csv, yaml
+
           with open("sheet.csv") as f:
-              rows = list(csv.DictReader(f))
+              rows = list(csv.reader(f))
+
+          header = rows[0][1:]   # semesters
+          courses = []
+
+          for r in rows[1:]:
+              code = r[0]
+              if not code.strip():
+                  continue
+
+              name = None
+              semesters = []
+
+              for i, cell in enumerate(r[1:]):
+                  if cell.strip():
+                      name = cell
+                      semesters.append(header[i].replace("\\n"," ").strip())
+
+              if name:
+                  courses.append({
+                      "code": code.strip(),
+                      "name": name.strip(),
+                      "semesters": semesters
+                  })
+
           with open("_data/courses.yml","w") as f:
-              yaml.dump(rows, f, allow_unicode=True)
+              yaml.dump(courses, f, allow_unicode=True)
           EOF
 
       - name: Commit and push

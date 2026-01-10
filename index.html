@@ -4,13 +4,13 @@ layout: default
 
 <h1>OMSCS Course Catalog</h1>
 
-<input id="search" placeholder="Search courses…" style="width:100%;padding:10px;margin:20px 0">
+<input id="search" placeholder="Search courses..." style="width:100%;padding:12px;margin:20px 0">
 
 <div id="courses">
-  {% for course in site.data.courses %}
+  {% for c in site.data.courses %}
     <div class="course">
-      <strong>{{ course.Course_Name }}</strong><br>
-      {{ course.Course_Code }}
+      <strong>{{ c.code }}</strong> — {{ c.name }}<br>
+      <small>{{ c.semesters | join: ", " }}</small>
     </div>
   {% endfor %}
 </div>
@@ -21,8 +21,8 @@ const cards = document.querySelectorAll(".course");
 
 search.addEventListener("input", e => {
   const q = e.target.value.toLowerCase();
-  cards.forEach(card => {
-    card.style.display = card.innerText.toLowerCase().includes(q) ? "" : "none";
+  cards.forEach(c => {
+    c.style.display = c.innerText.toLowerCase().includes(q) ? "" : "none";
   });
 });
 </script>
