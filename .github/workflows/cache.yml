@@ -15,15 +15,20 @@ jobs:
         run: |
           curl -L "https://docs.google.com/spreadsheets/d/e/2PACX-1vRyHrRhH2V52bsYFEtm-8oJDaFOlyGYz6AKXm8WwsthN3fNP3KGkEx7O7D9ZHV3j2iKnzU2XHqoh4pQ/pubhtml?gid=90388515&single=true" -o raw.html
 
+      - name: Install HTML parser
+        run: |
+          pip install beautifulsoup4 lxml
+
       - name: Extract table
         run: |
           python - <<EOF
           from bs4 import BeautifulSoup
 
           html = open("raw.html").read()
-          soup = BeautifulSoup(html, "html.parser")
+          soup = BeautifulSoup(html, "lxml")
 
           table = soup.find("table")
+
           page = f"""
           <html>
           <head>
