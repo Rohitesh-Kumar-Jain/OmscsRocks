@@ -8,45 +8,42 @@ on:
 jobs:
   cache:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download published sheet
+      - name: Download CSV
         run: |
-          curl -L "https://docs.google.com/spreadsheets/d/e/2PACX-1vRyHrRhH2V52bsYFEtm-8oJDaFOlyGYz6AKXm8WwsthN3fNP3KGkEx7O7D9ZHV3j2iKnzU2XHqoh4pQ/pubhtml?gid=90388515&single=true" -o raw.html
+          curl -L "https://docs.google.com/spreadsheets/d/e/2PACX-1vRyHrRhH2V52bsYFEtm-8oJDaFOlyGYz6AKXm8WwsthN3fNP3KGkEx7O7D9ZHV3j2iKnzU2XHqoh4pQ/pub?gid=90388515&single=true&output=csv" -o sheet.csv
 
-      - name: Install HTML parser
-        run: |
-          pip install beautifulsoup4 lxml
-
-      - name: Extract table
+      - name: Convert CSV to HTML
         run: |
           python - <<EOF
-          from bs4 import BeautifulSoup
+          import csv, html
 
-          html = open("raw.html").read()
-          soup = BeautifulSoup(html, "lxml")
+          with open("sheet.csv", newline="", encoding="utf-8") as f:
+              rows = list(csv.reader(f))
 
-          table = soup.find("table")
+          out = []
+          out.append("<html><head>")
+          out.append("<meta name='viewport' content='width=device-width, initial-scale=1'>")
+          out.append("<style>")
+          out.append("body{font-family:system-ui;margin:0;background:#f8fafc}")
+          out.append("table{border-collapse:collapse;width:100%}")
+          out.append("td,th{border:1px solid #e5e7eb;padding:6px;font-size:14px}")
+          out.append("tr:nth-child(even){background:#f1f5f9}")
+          out.append("</style></head><body>")
+          out.append("<table>")
 
-          page = f"""
-          <html>
-          <head>
-            <meta name="viewport" content="width=device-width, initial-scale=1">
-            <style>
-              body {{ font-family: Arial, sans-serif; margin:0; }}
-              table {{ border-collapse: collapse; width:100%; }}
-              td, th {{ border: 1px solid #ddd; padding: 6px; }}
-              tr:nth-child(even) {{ background:#f9fafb; }}
-            </style>
-          </head>
-          <body>
-          {str(table)}
-          </body>
-          </html>
-          """
+          for r in rows:
+              out.append("<tr>")
+              for c in r:
+                  out.append(f"<td>{html.escape(c)}</td>")
+              out.append("</tr>")
 
-          open("cached.html","w").write(page)
+          out.append("</table></body></html>")
+
+          open("cached.html","w", encoding="utf-8").write("\n".join(out))
           EOF
 
       - name: Commit and push
